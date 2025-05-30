@@ -9,11 +9,11 @@
 
 I'm enrolled in a professional cybersecurity diploma, where I’m actively learning and applying:
 
-- ✅ Certified Cyber Security & Ethical Hacker V3 *(Completed)*
-- 🛠️ Certified Web Penetration Tester V3 *(Active)*
-- 🔐 Network Security *(Active)*
-- 📡 Certified Network Penetration Tester V3 *(Active)*
-- 💥 Exploit Writing *(Evaluation Pending)*
+- ✅ Certified Cyber Security & Ethical Hacker V3 **
+- 🛠️ Certified Web Penetration Tester V3 **
+- 🔐 Network Security **
+- 📡 Certified Network Penetration Tester V3 **
+- 💥 Exploit Writing **
 
 💡 I love exploring **real-world CVEs**, solving **Capture The Flag (CTF)** challenges, and testing web apps for vulnerabilities using tools like:
 - Burp Suite
